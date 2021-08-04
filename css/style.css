@@ -1,0 +1,16 @@
+.blog{
+    border: 1px solid purple;
+    border-radius: 20px;
+    margin: 3.33px;
+    width: 30%;
+    /* float: left; */
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color: purple;
+    padding: 2px;
+}
